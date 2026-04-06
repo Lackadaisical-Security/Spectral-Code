@@ -718,6 +718,4 @@ See [docs/BUILD-WINDOWS.md](vscode/docs/spectral/BUILD-WINDOWS.md) for the full 
 
 This project applies patches and extensions on top of the [VS Code OSS](https://github.com/microsoft/vscode) codebase, which is licensed under the [MIT License](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
 
-Spectral Edition extensions and installer are copyright The Spectral Operator.
-
-
+Spectral Edition extensions and installer are copyright by Lackadaisical Security 2025.
